@@ -1,0 +1,18 @@
+R1,R2,R3,R4,R5 - 10om
+R6,R8 - 10k
+R7 - 1,5k
+R11,R14 - 330om
+R12,R13 - 1k
+C1,C2,C3,C5,C12 -100nF
+C4,C10,C16 - 10uF
+C9,C11 - 10nF
+C13 - 4,7uF
+C14,C15 - 1uF
+D1 - BAT43 lub BAT46
+Q1 - 2N7002
+Filtr - 0500LP15A500E
+
+Wszystkie rezystory i kondensatory rozmiar smd 0603
+
+Kondensatory C9,C11  - regulują poziom niskich i wysokich tonów, dobrać jak komu pasuje.
+Dla mnie pasuje 10nF

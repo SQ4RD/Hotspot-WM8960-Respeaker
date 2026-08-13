@@ -11,7 +11,7 @@ C14,C15 - 1uF
 D1 - BAT43 lub BAT46
 Q1 - 2N7002
 Filtr - 0500LP15A500E
-
+Generator scalony 24MHz
 Wszystkie rezystory i kondensatory rozmiar smd 0603
 
 Kondensatory C9,C11  - regulują poziom niskich i wysokich tonów, dobrać jak komu pasuje.
